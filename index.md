@@ -7,3 +7,6 @@ I CHANGED THE TITLE
 ```python
 print('Hello word') 
 ```
+
+- [ ] acheter du lait 
+
